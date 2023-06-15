@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\bin\Debug\net6.0\AddVAT.exe
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\bin\Debug\net6.0\AddVAT.deps.json
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\bin\Debug\net6.0\AddVAT.runtimeconfig.json
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\bin\Debug\net6.0\AddVAT.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\bin\Debug\net6.0\AddVAT.pdb
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\refint\AddVAT.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.pdb
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\AddVAT.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\AddVAT\obj\Debug\net6.0\ref\AddVAT.dll

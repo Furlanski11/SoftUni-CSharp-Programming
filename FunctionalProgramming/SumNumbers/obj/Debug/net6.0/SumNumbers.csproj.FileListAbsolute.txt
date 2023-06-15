@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\net6.0\SumNumbers.exe
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\net6.0\SumNumbers.deps.json
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\net6.0\SumNumbers.runtimeconfig.json
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\net6.0\SumNumbers.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\net6.0\SumNumbers.pdb
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\refint\SumNumbers.dll
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.pdb
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\SumNumbers.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\net6.0\ref\SumNumbers.dll
