@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Users\antoa\source\repos\AbstractionsExc\Telephony\obj\Debug\net6.0\ref\Telephony.dll
