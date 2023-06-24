@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\bin\Debug\net6.0\ActionPoint.exe
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\bin\Debug\net6.0\ActionPoint.deps.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\bin\Debug\net6.0\ActionPoint.runtimeconfig.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\bin\Debug\net6.0\ActionPoint.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\bin\Debug\net6.0\ActionPoint.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\refint\ActionPoint.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ActionPoint.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ActionPoint\obj\Debug\net6.0\ref\ActionPoint.dll

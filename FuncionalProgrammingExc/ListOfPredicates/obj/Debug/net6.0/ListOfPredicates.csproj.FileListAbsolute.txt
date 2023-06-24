@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.exe
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.deps.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.runtimeconfig.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\bin\Debug\net6.0\ListOfPredicates.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\refint\ListOfPredicates.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ListOfPredicates.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ListOfPredicates\obj\Debug\net6.0\ref\ListOfPredicates.dll

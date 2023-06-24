@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\bin\Debug\net6.0\PredicateParty.exe
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\bin\Debug\net6.0\PredicateParty.deps.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\bin\Debug\net6.0\PredicateParty.runtimeconfig.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\bin\Debug\net6.0\PredicateParty.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\bin\Debug\net6.0\PredicateParty.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\refint\PredicateParty.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\PredicateParty.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\PredicateParty\obj\Debug\net6.0\ref\PredicateParty.dll

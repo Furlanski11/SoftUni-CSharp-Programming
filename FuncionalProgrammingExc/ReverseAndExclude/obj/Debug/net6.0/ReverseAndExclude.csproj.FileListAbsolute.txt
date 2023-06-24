@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.exe
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.deps.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.runtimeconfig.json
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\bin\Debug\net6.0\ReverseAndExclude.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.AssemblyInfo.cs
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\refint\ReverseAndExclude.dll
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.pdb
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ReverseAndExclude.genruntimeconfig.cache
+C:\Users\antoa\source\repos\FuncionalProgrammingExc\ReverseAndExclude\obj\Debug\net6.0\ref\ReverseAndExclude.dll
