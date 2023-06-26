@@ -1,0 +1,5 @@
+C:\Users\antoa\source\repos\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\antoa\source\repos\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
