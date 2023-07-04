@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\net6.0\PolymorphismLab.exe
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\net6.0\PolymorphismLab.deps.json
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\net6.0\PolymorphismLab.runtimeconfig.json
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\net6.0\PolymorphismLab.dll
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\net6.0\PolymorphismLab.pdb
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.AssemblyInfo.cs
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.dll
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\refint\PolymorphismLab.dll
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.pdb
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\PolymorphismLab.genruntimeconfig.cache
+C:\Users\antoa\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\net6.0\ref\PolymorphismLab.dll
