@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.exe
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.deps.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.runtimeconfig.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.dll
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\bin\Debug\netcoreapp3.1\LargestThreeNumbers.pdb
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.AssemblyInfo.cs
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.dll
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.pdb
+C:\Users\antoa\source\repos\SetsAndDictionaries\LargestThreeNumbers\obj\Debug\netcoreapp3.1\LargestThreeNumbers.genruntimeconfig.cache

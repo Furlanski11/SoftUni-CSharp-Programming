@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.exe
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.deps.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.runtimeconfig.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.dll
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\bin\Debug\netcoreapp3.1\AverageStudentsGrade.pdb
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.AssemblyInfo.cs
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.dll
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.pdb
+C:\Users\antoa\source\repos\SetsAndDictionaries\AverageStudentsGrade\obj\Debug\netcoreapp3.1\AverageStudentsGrade.genruntimeconfig.cache
