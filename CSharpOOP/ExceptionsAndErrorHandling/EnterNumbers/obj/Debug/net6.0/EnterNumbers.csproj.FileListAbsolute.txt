@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\bin\Debug\net6.0\EnterNumbers.exe
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\bin\Debug\net6.0\EnterNumbers.deps.json
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\bin\Debug\net6.0\EnterNumbers.runtimeconfig.json
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\bin\Debug\net6.0\EnterNumbers.dll
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\bin\Debug\net6.0\EnterNumbers.pdb
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfo.cs
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.dll
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\refint\EnterNumbers.dll
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.pdb
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\EnterNumbers.genruntimeconfig.cache
+C:\Users\antoa\source\repos\ExceptionsAndErrorHandling\EnterNumbers\obj\Debug\net6.0\ref\EnterNumbers.dll
