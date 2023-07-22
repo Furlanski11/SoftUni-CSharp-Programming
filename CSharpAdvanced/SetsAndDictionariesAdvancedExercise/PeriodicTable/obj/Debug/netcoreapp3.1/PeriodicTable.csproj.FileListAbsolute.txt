@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.exe
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.deps.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfo.cs
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.exe
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.deps.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfo.cs
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.genruntimeconfig.cache

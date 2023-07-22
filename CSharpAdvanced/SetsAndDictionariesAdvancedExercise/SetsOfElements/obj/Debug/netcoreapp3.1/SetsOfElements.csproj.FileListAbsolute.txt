@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\antoa\source\repos\SetsAndDictionariesAdvancedExercise\ConsoleApp1\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache
