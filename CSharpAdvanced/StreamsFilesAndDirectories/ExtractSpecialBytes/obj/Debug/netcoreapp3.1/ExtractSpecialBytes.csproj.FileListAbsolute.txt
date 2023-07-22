@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache

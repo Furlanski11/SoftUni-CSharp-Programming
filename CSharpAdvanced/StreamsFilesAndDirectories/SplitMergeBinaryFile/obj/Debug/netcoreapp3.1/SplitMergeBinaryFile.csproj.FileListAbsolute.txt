@@ -1,0 +1,14 @@
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\antoa\source\repos\StreamsFilesAndDirectories\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache
