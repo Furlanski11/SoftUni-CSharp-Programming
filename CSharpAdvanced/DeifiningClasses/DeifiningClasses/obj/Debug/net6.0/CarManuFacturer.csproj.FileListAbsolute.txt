@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\CarManuFacturer.exe
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\CarManuFacturer.deps.json
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\CarManuFacturer.runtimeconfig.json
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\CarManuFacturer.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\CarManuFacturer.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.AssemblyInfo.cs
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\refint\CarManuFacturer.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\CarManuFacturer.genruntimeconfig.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\ref\CarManuFacturer.dll

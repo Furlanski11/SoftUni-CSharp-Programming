@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\DeifiningClasses.exe
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\DeifiningClasses.deps.json
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\DeifiningClasses.runtimeconfig.json
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\DeifiningClasses.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\bin\Debug\net6.0\DeifiningClasses.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.AssemblyInfo.cs
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\refint\DeifiningClasses.dll
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\DeifiningClasses.genruntimeconfig.cache
+C:\Users\antoa\source\repos\DeifiningClasses\DeifiningClasses\obj\Debug\net6.0\ref\DeifiningClasses.dll

@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\bin\Debug\net6.0\SpecialCars.exe
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\bin\Debug\net6.0\SpecialCars.deps.json
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\bin\Debug\net6.0\SpecialCars.runtimeconfig.json
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\bin\Debug\net6.0\SpecialCars.dll
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\bin\Debug\net6.0\SpecialCars.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.AssemblyInfo.cs
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.dll
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\refint\SpecialCars.dll
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.pdb
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\SpecialCars.genruntimeconfig.cache
+C:\Users\antoa\source\repos\DeifiningClasses\SpecialCars\obj\Debug\net6.0\ref\SpecialCars.dll
