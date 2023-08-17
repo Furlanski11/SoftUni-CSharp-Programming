@@ -1,0 +1,5 @@
+C:\Users\antoa\source\repos\GenericsLab\GenericsLab\obj\Debug\net6.0\GenericsLab.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\GenericsLab\GenericsLab\obj\Debug\net6.0\GenericsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\GenericsLab\GenericsLab\obj\Debug\net6.0\GenericsLab.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\GenericsLab\GenericsLab\obj\Debug\net6.0\GenericsLab.AssemblyInfo.cs
+C:\Users\antoa\source\repos\GenericsLab\GenericsLab\obj\Debug\net6.0\GenericsLab.csproj.CoreCompileInputs.cache
