@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\bin\Debug\net6.0\BoxOfInts.exe
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\bin\Debug\net6.0\BoxOfInts.deps.json
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\bin\Debug\net6.0\BoxOfInts.runtimeconfig.json
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\bin\Debug\net6.0\BoxOfInts.dll
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\bin\Debug\net6.0\BoxOfInts.pdb
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.AssemblyInfo.cs
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.dll
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\refint\BoxOfInts.dll
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.pdb
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\BoxOfInts.genruntimeconfig.cache
+C:\Users\antoa\source\repos\GenericsExc\BoxOfInts\obj\Debug\net6.0\ref\BoxOfInts.dll
