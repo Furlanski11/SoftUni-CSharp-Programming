@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\bin\Debug\net6.0\CountMethodDoubles.exe
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\bin\Debug\net6.0\CountMethodDoubles.deps.json
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\bin\Debug\net6.0\CountMethodDoubles.runtimeconfig.json
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\bin\Debug\net6.0\CountMethodDoubles.dll
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\bin\Debug\net6.0\CountMethodDoubles.pdb
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.AssemblyInfo.cs
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.dll
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\refint\CountMethodDoubles.dll
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.pdb
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\CountMethodDoubles.genruntimeconfig.cache
+C:\Users\antoa\source\repos\GenericsExc\CountMethodDoubles\obj\Debug\net6.0\ref\CountMethodDoubles.dll
