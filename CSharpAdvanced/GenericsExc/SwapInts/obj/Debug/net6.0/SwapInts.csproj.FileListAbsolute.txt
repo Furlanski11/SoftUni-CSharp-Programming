@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\bin\Debug\net6.0\SwapInts.exe
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\bin\Debug\net6.0\SwapInts.deps.json
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\bin\Debug\net6.0\SwapInts.runtimeconfig.json
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\bin\Debug\net6.0\SwapInts.dll
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\bin\Debug\net6.0\SwapInts.pdb
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.AssemblyInfo.cs
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.dll
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\refint\SwapInts.dll
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.pdb
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\SwapInts.genruntimeconfig.cache
+C:\Users\antoa\source\repos\GenericsExc\SwapInts\obj\Debug\net6.0\ref\SwapInts.dll
