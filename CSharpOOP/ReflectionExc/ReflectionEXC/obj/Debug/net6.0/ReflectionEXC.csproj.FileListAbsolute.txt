@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\bin\Debug\net6.0\ReflectionEXC.exe
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\bin\Debug\net6.0\ReflectionEXC.deps.json
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\bin\Debug\net6.0\ReflectionEXC.runtimeconfig.json
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\bin\Debug\net6.0\ReflectionEXC.dll
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\bin\Debug\net6.0\ReflectionEXC.pdb
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.AssemblyInfo.cs
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.dll
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\refint\ReflectionEXC.dll
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.pdb
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ReflectionEXC.genruntimeconfig.cache
+C:\Users\antoa\source\repos\ReflectionEXC\ReflectionEXC\obj\Debug\net6.0\ref\ReflectionEXC.dll
