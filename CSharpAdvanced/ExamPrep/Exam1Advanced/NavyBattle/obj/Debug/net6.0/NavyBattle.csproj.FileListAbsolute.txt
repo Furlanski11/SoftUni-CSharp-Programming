@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\bin\Debug\net6.0\NavyBattle.exe
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\bin\Debug\net6.0\NavyBattle.deps.json
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\bin\Debug\net6.0\NavyBattle.runtimeconfig.json
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\bin\Debug\net6.0\NavyBattle.dll
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\bin\Debug\net6.0\NavyBattle.pdb
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.AssemblyInfo.cs
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.dll
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\refint\NavyBattle.dll
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.pdb
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\NavyBattle.genruntimeconfig.cache
+C:\Users\antoa\source\repos\Exam1Advanced\NavyBattle\obj\Debug\net6.0\ref\NavyBattle.dll

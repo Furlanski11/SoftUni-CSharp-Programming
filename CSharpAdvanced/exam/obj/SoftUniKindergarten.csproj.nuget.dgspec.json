@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antoa\\Desktop\\SoftUni.codes\\exam\\SoftUniKindergarten.csproj": {}
+    "C:\\Users\\antoa\\Documents\\GitHub\\SoftUni-CSharp-Programming\\CSharpAdvanced\\exam\\SoftUniKindergarten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antoa\\Desktop\\SoftUni.codes\\exam\\SoftUniKindergarten.csproj": {
+    "C:\\Users\\antoa\\Documents\\GitHub\\SoftUni-CSharp-Programming\\CSharpAdvanced\\exam\\SoftUniKindergarten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antoa\\Desktop\\SoftUni.codes\\exam\\SoftUniKindergarten.csproj",
+        "projectUniqueName": "C:\\Users\\antoa\\Documents\\GitHub\\SoftUni-CSharp-Programming\\CSharpAdvanced\\exam\\SoftUniKindergarten.csproj",
         "projectName": "SoftUniKindergarten",
-        "projectPath": "C:\\Users\\antoa\\Desktop\\SoftUni.codes\\exam\\SoftUniKindergarten.csproj",
+        "projectPath": "C:\\Users\\antoa\\Documents\\GitHub\\SoftUni-CSharp-Programming\\CSharpAdvanced\\exam\\SoftUniKindergarten.csproj",
         "packagesPath": "C:\\Users\\antoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antoa\\Desktop\\SoftUni.codes\\exam\\obj\\",
+        "outputPath": "C:\\Users\\antoa\\Documents\\GitHub\\SoftUni-CSharp-Programming\\CSharpAdvanced\\exam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
