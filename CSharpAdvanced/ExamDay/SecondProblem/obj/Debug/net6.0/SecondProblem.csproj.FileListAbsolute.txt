@@ -1,0 +1,15 @@
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\bin\Debug\net6.0\SecondProblem.exe
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\bin\Debug\net6.0\SecondProblem.deps.json
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\bin\Debug\net6.0\SecondProblem.runtimeconfig.json
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\bin\Debug\net6.0\SecondProblem.dll
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\bin\Debug\net6.0\SecondProblem.pdb
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.csproj.AssemblyReference.cache
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.AssemblyInfoInputs.cache
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.AssemblyInfo.cs
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.csproj.CoreCompileInputs.cache
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.dll
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\refint\SecondProblem.dll
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.pdb
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\SecondProblem.genruntimeconfig.cache
+C:\Users\antoa\source\repos\ExamDay\SecondProblem\obj\Debug\net6.0\ref\SecondProblem.dll
