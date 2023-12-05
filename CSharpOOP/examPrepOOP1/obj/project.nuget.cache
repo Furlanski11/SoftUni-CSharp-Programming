@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXWlwYNXmSeiUjgW+AB9mr7eei97xASD+eFGw47ZgppyrD3qhK5cXTGMLi3m0UJWxGwDE5HMf1ViKqOH0TK+QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antoa\\Desktop\\examPrepOOP\\examPrepOOP1\\UniversityCompetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\antoa\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
