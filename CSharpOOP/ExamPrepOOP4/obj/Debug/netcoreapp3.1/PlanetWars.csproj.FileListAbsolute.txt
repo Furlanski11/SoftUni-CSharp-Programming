@@ -1,0 +1,14 @@
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.exe
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\antoa\Desktop\ExamPrepOOP4\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.dll
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+C:\Users\antoa\Desktop\ExamPrepOOP4\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
