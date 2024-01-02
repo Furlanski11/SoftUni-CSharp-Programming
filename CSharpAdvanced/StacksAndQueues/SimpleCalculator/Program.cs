@@ -23,6 +23,14 @@ namespace StacksAndQueues
                 {
                     sum -= int.Parse(stack.Pop());
                 }
+                else if(currentPop == "*")
+                {
+                    sum *= int.Parse(stack.Pop());
+                }
+                else if(currentPop == "/")
+                {
+                    sum /= int.Parse(stack.Pop());
+                }
             }
             Console.WriteLine(sum);
         }
