@@ -1,0 +1,17 @@
+C# Advanced SoftUni Course:
+
+The "C# Advanced" course enhances skills in working with the C# language and the .NET platform, covering more advanced concepts typical to the language.
+In this course, you'll learn to create and work with linear data structures. You'll enhance your knowledge of working with arrays, including learning how to handle multidimensional arrays or matrices.
+You'll have the opportunity to become familiar with the Generic concept - creating template classes and methods.
+You'll solve algorithmic problems, refine your problem-solving skills, work with streams, files, and directories.
+Attention is given to the functional programming paradigm, emphasizing LINQ as a key tool for processing streams of data.
+The development environment utilized by the training team is Microsoft Visual Studio 2022, although every student is free to use their preferred tools.
+
+Acquired skills:
+
+Creating template classes
+Working with multidimensional and associative data structures
+Creating linear data structures
+Applying fundamental algorithms
+Applying functional programming
+Working with data streams, files, and directories
